@@ -1,0 +1,16 @@
+{
+  "app_env": "prod",
+  "app_root": "/queue_app",
+  "database_name": {"Queue App":"queue_app"},
+  "database_host": "127.0.0.1",
+  "database_user": "root",
+  "database_password": {"Queue App":"ionel123"},
+  "database_port": {"Queue App":3306},
+  "ini_display_errors" : 1,
+  "ini_error_reporting": 1,
+  "_comments": {
+    "app_root": "on prod/test will be /projects_management",
+    "ini_display_errors": "in prod will be 0",
+    "ini_error_reporting": "in prod will be 0"
+  }
+}
